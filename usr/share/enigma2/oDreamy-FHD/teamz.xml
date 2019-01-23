@@ -17,7 +17,7 @@
 		<rule type="marker"  Name="openvix"          Red=""           Green=""            Yellow=""           Blue="" >            </rule>	
 		<rule type="marker"  Name="openmips"         Red="EPG"        Green="Plugins"     Yellow="TimeShift"  Blue="Extensions" >  </rule>	
 		<rule type="marker"  Name="opendroid"        Red="EPG"        Green="Plugins"     Yellow=""           Blue="" >            </rule>	
-		<rule type="marker"  Name="openesi"          Red="EPG"        Green="Plugins"     Yellow="Audio"      Blue="Esi Panel" >            </rule>	
+		<rule type="marker"  Name="openesi"          Red="EPG"        Green="Plugins"     Yellow="Audio"      Blue="Esi_Panel" >            </rule>	
 		<rule type="marker"  Name="openhdf"          Red=""           Green=""            Yellow="EPG"        Blue="" >            </rule>	
 		<rule type="marker"  Name="Italysat"         Red=""           Green=""            Yellow=""           Blue="" >            </rule>	
 		<rule type="marker"  Name="Atemio4you Team"  Red=""           Green=""            Yellow=""           Blue="" >            </rule>	
